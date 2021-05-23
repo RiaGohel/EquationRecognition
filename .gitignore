@@ -1,6 +1,11 @@
+.idea/
+.DS_Store
+train_data.csv
+extracted_images/
+extracted_images.zip
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
-extracted_images/
 *.py[cod]
 *$py.class
 
